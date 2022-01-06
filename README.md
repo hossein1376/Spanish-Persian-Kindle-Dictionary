@@ -21,7 +21,7 @@ Free Spanish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 ## نکات مهم:
 ■ برای ساخت این لغت نامه، از دیکشنری MB Dictionary Spanish to Persian استفاده شده است که رایگان بوده و بر روی اینترنت قابل دریافت میباشد.
 
-■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. این دیکشنری به عنوان بخشی از پروژه لغت نامه های فارسی کیندل ساخته شده است و من شخصا هیچ آشنایی با زبان اسپانیایی ندارم.
+■ استفاده و انتشار این لغت نامه کاملا **رایگان** است. این دیکشنری به عنوان بخشی از پروژه لغت نامه های فارسی کیندل ساخته شده است و من شخصا آشنایی با زبان اسپانیایی ندارم.
 در صورت وجود مشکل یا علاقه شما در جهت بهبود لغت نامه، فایل منبع لغت نامه قرار داده است. همپنین با مراجعه به پروژه اصلی، میتوانید راهنمایی های بیشتر نیز پیدا کنید.
 
 ■ این لغت نامه از نوشتار راست-به-چپ برای متن فارسی پشتیبانی میکند.
@@ -32,5 +32,7 @@ Free Spanish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 [Russian-Persian Kindle Dictionary دیکشنری روسی به فارسی کیندل](https://github.com/hossein1376/Russian-Persian-Kindle-Dictionary)
 
 [Swedish-Persian Kindle Dictionary دیکشنری سوئدی به فارسی کیندل](https://github.com/hossein1376/Swedish-Persian-Kindle-Dictionary)
+
+[French-Persian Kindle Dictionary دیکشنری فرانسوی به فارسی کیندل](https://github.com/hossein1376/French-Persian-Kindle-Dictionary)
 
 [Finnish-Persian Kindle Dictionary دیکشنری فنلاندی به فارسی کیندل](https://github.com/hossein1376/Finnish-Persian-Kindle-Dictionary)
