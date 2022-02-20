@@ -9,10 +9,10 @@ Free Spanish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 
 **رایگان**
 
-**نسخه 1.0**
+**نسخه 1.1**
 
 ## نحوه استفاده:
-فایل Spanish-Persian Dictionary v1.0.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
+فایل Spanish-Persian Dictionary v1.1.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
 
 در تنظیمات، بخش زبان و لغت نامه، آن را به عنوان دیکشنری پیش فرض خود انتخاب کنید.
 
@@ -25,6 +25,8 @@ Free Spanish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 در صورت وجود مشکل یا علاقه شما در جهت بهبود لغت نامه، فایل منبع لغت نامه قرار داده است. همپنین با مراجعه به پروژه اصلی، میتوانید راهنمایی های بیشتر نیز پیدا کنید.
 
 ■ این لغت نامه از نوشتار راست-به-چپ برای متن فارسی پشتیبانی میکند.
+
+■ در صورت مواجه با مشکلی در نمایش لغت نامه، ورژن 1.0 را امتحان کنید و یا با من در ارتباط باشید.
 
 ## سایر لغت نامه ها
 [English-Persian Kindle Custom Dictionary دیکشنری انگلیسی به فارسی برای کتاب خوان های آمازون کیندل](https://github.com/hossein1376/English-Persian-Kindle-Custom-Dictionary)
