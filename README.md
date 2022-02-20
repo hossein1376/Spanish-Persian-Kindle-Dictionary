@@ -4,12 +4,13 @@ Free Spanish-Persian Kindle Dictionary. This is a sub-project of: [English-Persi
 # دیکشنری اسپانیایی به فارسی کیندل
 **نزدیک به 15 هزار کلمه و اصطلاح**
 
+**ویژگی Enhanced Typesetting Support برای نمایش بهتر**
 
 **پشتیبانی از نوشتار راست به چپ**
 
-**رایگان**
-
 **نسخه 1.1**
+
+**رایگان**
 
 ## نحوه استفاده:
 فایل Spanish-Persian Dictionary v1.1.mobi را دانلود کرده و به حافظه داخلی آمازون کیندل خود منتقل کنید.
